@@ -529,6 +529,9 @@ h1 {
 h1 {
   font-size: 33px
 }
+  .heading-icon{
+  display: none;
+}
 }
 
 .h2,
